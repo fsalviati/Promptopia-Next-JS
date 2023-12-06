@@ -2,7 +2,7 @@
 * Project built along the Next JS training.
 
 ## Deployed using Vercel at:
-promptopia-next-eqxnd0fxs-fsalviati.vercel.app
+[promptopia-next-eqxnd0fxs-fsalviati.vercel.app](https://promptopia-next-afha02d2s-fsalviati.vercel.app/)
 <br />
 
 # Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
